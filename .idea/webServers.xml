@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af27278e-685e-4246-8ef5-adec4eb9c836" name="xamp" url="http://localhost/web">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\web" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="07ee3b67-b2e1-4fc0-a0ab-1661d909322f" name="dreibach" url="http://web24.alfahosting-server.de">
+        <fileTransfer host="web24.alfahosting-server.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

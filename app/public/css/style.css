@@ -1,0 +1,54 @@
+/**
+* Template Name: MyResume - v4.9.2
+* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  background-color:#292c33;
+}
+
+a {
+  color: #0563bb;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #067ded;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+
+
+/*--------------------------------------------------------------
+# navbar
+--------------------------------------------------------------*/
+
+.navbar{
+width: 50px;
+background-color: #fff;
+color:black;
+
+}
+
+.lines{
+  width: 50px;
+  background-color: #fff;
+  color:black;
+  
+  }
